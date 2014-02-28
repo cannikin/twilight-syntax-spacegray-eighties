@@ -1,0 +1,11 @@
+{
+  "name": "twilight-syntax-spacegray-eighties",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Twilight syntax theme for GitHub's Atom IDE, optimized for the Spacegray Eighties theme.",
+  "repository": "https://github.com/cannikin/twilight-syntax-spacegray-eighties",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
